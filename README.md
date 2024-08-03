@@ -1,2 +1,2 @@
-# my-captain-projects
+# my-projects
 coded by Guru Prakash
